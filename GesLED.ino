@@ -1,6 +1,6 @@
 /*
  * Author: Bhuvan Kumar
- * GitHub: Bhuvanrokcs
+ * GitHub: Bhuvanrocks
  * Description: Code to receive data from Serial , and map the value to the brightness of LED
  *
  * This code is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
