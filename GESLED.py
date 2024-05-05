@@ -1,3 +1,6 @@
+# Author: Bhuvan Kumar
+# GitHub: Bhuvanrocks
+# Description: Python Code for controlling the brightness of LED using gestures
 from cvzone.SerialModule import SerialObject
 import cv2
 import time
