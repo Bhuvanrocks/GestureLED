@@ -1,3 +1,12 @@
+/*
+ * Author: Bhuvan Kumar
+ * GitHub: Bhuvanrokcs
+ * Description: Code to receive data from Serial , and map the value to the brightness of LED
+ *
+ * This code is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+ * You may obtain a copy of the license at https://creativecommons.org/licenses/by-sa/4.0/legalcode
+ */
+
 #define led 3
 #include<cvzone.h>
 SerialData serialData(1,3);
